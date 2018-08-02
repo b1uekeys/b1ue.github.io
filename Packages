@@ -1,7 +1,7 @@
 Package: (com.b1uekeys.NoSillyDotsXI)
 Name: NoSillyDotsXI 
-Version: 1.0
-Size: 808
+Version: 1.0.1
+Size: 4096
 Architecture: iphoneos-arm
 Description: Hide them silly page dots
 Maintainer: b1uekeys <email@provider.com>
